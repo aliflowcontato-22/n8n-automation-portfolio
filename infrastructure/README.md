@@ -228,6 +228,18 @@ docker compose up -d
 # 5. Verificar
 docker compose ps
 docker compose logs -f
+
+aliflow@AliFlow:~$ cd ~/n8n
+aliflow@AliFlow:~/n8n$ docker compose ps
+docker compose logs -f
+NAME                IMAGE                                   COMMAND                  SERVICE       CREATED      STATUS                 PORTS
+n8n                 n8nio/n8n:2.7.0                         "tini -- /docker-ent…"   n8n           3 days ago   Up 5 hours             XXXXXXXXX->5678/tcp
+
+n8n-cloudflared-1   cloudflare/cloudflared:2026.1.2-amd64   "cloudflared --no-au…"   cloudflared   3 days ago   Up 5 hours
+        
+postgres            postgres:15                             "docker-entrypoint.s…"   postgres      3 days ago   Up 5 hours (healthy)   5432/tcp
+
+redis               redis:7-alpine                          "docker-entrypoint.s…"   redis         3 days ago   Up 5 hours             6379/tcp
 ```
 
 ## 📈 Resultados
