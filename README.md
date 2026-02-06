@@ -46,7 +46,8 @@ Sistema de automação para processos financeiros com:
 
 **Stack:** n8n, PostgreSQL, APIs REST, Webhooks
 
-📂 [Ver documentação](./workflows/cobranca-asaas-omie/) *(em breve)*
+📂 [./workflows/financeiro-avancado/]*(em breve)*
+
 
 ---
 
@@ -62,7 +63,8 @@ Stack completa Docker para n8n em ambiente de produção:
 
 **Stack:** Docker, PostgreSQL, Redis, Cloudflare, Ubuntu
 
-📂 [Ver documentação](./infrastructure/) *(em breve)*
+📂 [./workflows/cobranca-asaas-omie/] *(em breve)*
+
 
 ---
 
@@ -74,7 +76,7 @@ Estudo nó a nó para compreensão de arquitetura de automação.
 
 **Stack:** n8n, API integrations
 
-📂 [Ver documentação](./workflows/financeiro-avancado/) *(em breve)*
+📂 [./infrastructure/] *(em breve)*
 
 ---
 
