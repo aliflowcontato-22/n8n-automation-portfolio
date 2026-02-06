@@ -25,13 +25,16 @@ Infraestrutura containerizada com:
 ## 🏗️ Arquitetura
 
  ```bash
-Internet
-    ↓
+   Internet
+      ↓
 Cloudflare Tunnel
-(HTTPS)
-    ↓
+    (HTTPS)
+      ↓
 Docker Network
-  (internal)├─→ n8n:5678 ├─→ PostgreSQL:5432 └─→ Redis:6379
+  (internal)
+      ├─→ n8n:5678
+      ├─→PostgreSQL:5432
+      └─→ Redis:6379
 ```
 
 ## 🛠️ Stack Técnico
