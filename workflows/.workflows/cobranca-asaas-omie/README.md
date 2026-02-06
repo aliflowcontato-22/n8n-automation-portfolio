@@ -161,7 +161,7 @@ DB_NAME=n8n
 - [ ] app mobile para input/output de dados
 - [ ] Dead letter queue para falhas não recuperáveis
 - [ ] Dashboard de monitoramento em tempo real
-- [ ] Alertas proativos via Telegram
+- [ ] Alertas proativos via WhatsApp/Telegram
 - [ ] Testes automatizados do workflow
 - [ ] Versionamento de schema do banco
 
