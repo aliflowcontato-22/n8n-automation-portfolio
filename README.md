@@ -1,4 +1,5 @@
-###### 🚀 Portfolio de Automação de Processos
+# 🚀 Portfolio de Automação de Processos
+
 Bem-vindo ao meu portfolio técnico! Aqui você encontra documentação dos meus projetos de automação com **n8n**, **Docker**, **PostgreSQL** e **API integrations**.
 
 ## 👨‍💻 Sobre Mim
@@ -33,6 +34,7 @@ Sou Automation Specialist com foco em:
 - Hardening de segurança
 
 ## 📁 Projetos
+
 ### 1️⃣ Automação de Cobrança (Asaas + Omie)
 **Status:** Em produção
 
@@ -67,7 +69,7 @@ Stack completa Docker para n8n em ambiente de produção:
 ---
 
 ### 3️⃣ Workflow Financeiro Avançado
-**Status:** Em andamento
+**Status:** Em estudo
 
 Análise técnica de workflow complexo para processos financeiros.
 Estudo nó a nó para compreensão de arquitetura de automação.
@@ -99,9 +101,11 @@ Estratégia de retry com backoff exponencial:
 
 ## 🌐 Links
 
-- 💼 LinkedIn: [linkedin.com/in/alisson-araujo-aliflow22](https://www.linkedin.com/in/alisson-araujo-aliflow22)
-- 🌍 Portfólio: [aliflow.com.br](https://aliflow.com.br)
-- 📧 Email: [APAS22@proton.me](mailto:APAS22@proton.me)
+## 🌐 Links
+
+* 💼 LinkedIn: [linkedin.com/in/alisson-araujo-aliflow22](https://www.linkedin.com/in/alisson-araujo-aliflow22)
+* 🌍 Portfólio: [aliflow.com.br](https://aliflow.com.br)
+* 📧 Email: [APAS22@proton.me](mailto:APAS22@proton.me)
 
 ## 📝 Status
 
