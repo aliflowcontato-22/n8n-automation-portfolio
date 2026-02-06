@@ -99,9 +99,9 @@ Estratégia de retry com backoff exponencial:
 
 ## 🌐 Links
 
-- 💼 LinkedIn: [www.linkedin.com/in/alisson-araujo-aliflow22]
-- 🌍 Portfólio: [https://aliflow.com.br/portfolio]
-- 📧 Email: [APAS22@proton.me]
+- 💼 LinkedIn: [linkedin.com/in/alisson-araujo-aliflow22](https://www.linkedin.com/in/alisson-araujo-aliflow22)
+- 🌍 Portfólio: [aliflow.com.br](https://aliflow.com.br)
+- 📧 Email: [APAS22@proton.me](mailto:APAS22@proton.me)
 
 ## 📝 Status
 
